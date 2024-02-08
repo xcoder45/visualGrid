@@ -1,0 +1,28 @@
+{
+  "name": "visualgrid",
+  "version": "1.0.0",
+  "description": "A web-based platform for visualizing and analyzing data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "analytics",
+    "web",
+    "application"
+  ],
+  "author": "devesh kumar as xcoder45",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
